@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://morganwb2.github.io/cat.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://ota.morganwb.com/cat.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://ota.morganwb.com/cat2.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
